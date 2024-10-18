@@ -1,0 +1,3 @@
+module ExtraClass {
+	opens main;
+}
